@@ -1,0 +1,913 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "AZose0ljYkWLS0uiM9-sfbWQK9_FSO7waV5iM9dYGHGLuzYbteSXpa4qlRhqRTy6SqVSXR4Nf0vFu1w4uRZjUcKTEGqY4yAFZuvSfQbJeIIa8SFx0Vkb--Yp3z20zhXpWqiLO1ko0j5RYMMCiyFFNvaoGz4-vdsuwx0gXiT_e4Jfta787WV7ovm1TTuQydgx6B4nDZ_-dhhKQsk0CaBGyfrZPir1me-lXmn9thHrSxU6cZYGZykiQ8C852hc9oVslm21r8Y21-NKFZlIcYgmFn8dh9zWjBgFqDpOLJLHApc0V9siWqkgGbMSJy3XS7wmyJXxdQeSk7wG4u82tRMBcMPHF6_dXqlzh_NlK6x0w9LriVK0IuEGyBgRfspxz3cCRs6VrqNGZNToZtp9zTkZL--kxJg6_1v3ECv6Y33-tc3-Ewp_S8PU1mSJ7-tHhWOy",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.704186399999999,
+               "lng" : 115.2641343
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.702676670107277,
+                  "lng" : 115.2655425298927
+               },
+               "southwest" : {
+                  "lat" : -8.70537632989272,
+                  "lng" : 115.2628428701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Coco Bistro",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2184,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112633993005455016036\"\u003eYadi Yasin\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0m0WTFjCsmTrgQRTRjhSyoBlquLL9fKfncwVOJ4qXOHjvSz1YFbauoEgZ3QAVC3vxrWJCdRuXyPTFIUJNdnLtymTIXJDMGrJ3bJSm5PSUhrwAHQo8tmgkuFh3wgPaBWrU8gNfZwGprKVEWgEiWDvLxtBPuZ0tQhEpfr7fUWotfka7Q0",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJW1hRysFB0i0RKCnR-o_RH48",
+         "plus_code" : {
+            "compound_code" : "77W7+8M Sanur, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q77W7+8M"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJW1hRysFB0i0RKCnR-o_RH48",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1268,
+         "vicinity" : "Banjar Semawang, Jl. Duyung, Sanur, Kota Denpasar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.7050521,
+               "lng" : 115.2604904
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.703717620107279,
+                  "lng" : 115.2619070298927
+               },
+               "southwest" : {
+                  "lat" : -8.706417279892722,
+                  "lng" : 115.2592073701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Jepun Sanur",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3519,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103121539324349885858\"\u003eAlex. Wa\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0lNLYqmKcXTJ37foTH3Dbfy926K3_kiemIN8bnD9Cz0J7_lcOkd595_KBFsjY-3pnJbCf4sDwpUNZxBKRSN3KCxrMhqCE9GgvasKU_cI9mttyFUUVAXH985rug1J27-9GDYuDzamkVt0UomL1Ee9914ZiO7QV5_Nj-DDrXcJk2fVe7X",
+               "width" : 5278
+            }
+         ],
+         "place_id" : "ChIJr0fvfcBB0i0R6VqYxfMvrCc",
+         "plus_code" : {
+            "compound_code" : "77V6+X5 Sanur, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q77V6+X5"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJr0fvfcBB0i0R6VqYxfMvrCc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 312,
+         "vicinity" : "Jl. Danau Tamblingan No.212, Semawang, Sanur, Kota Denpasar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.699838399999999,
+               "lng" : 115.2628943
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.698473120107277,
+                  "lng" : 115.2641737798927
+               },
+               "southwest" : {
+                  "lat" : -8.701172779892721,
+                  "lng" : 115.2614741201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Blue Oven",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105222630190148082920\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0kAD7MKkRz0zUbjrqMvJgAJVKLweu3FopdbwrvHNZ-lKj6ODm3J3G6Fh9-jTIHdo-Nq1wKq04_Nuqrf3aMt5o53GYtaJ48f8UGWYFGu65UG7To6MBtQ20mPEjOmacpIDDiP7B8ya0OG9HV5K9mKOYPrRyt2CIDsYyIlJmtoDtIUAMaf",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJCxflVG5B0i0RW_y2NdjzERw",
+         "plus_code" : {
+            "compound_code" : "8727+35 Sanur, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q8727+35"
+         },
+         "rating" : 5,
+         "reference" : "ChIJCxflVG5B0i0RW_y2NdjzERw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jl. Danau Tamblingan No.89a, Sanur, Kota Denpasar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.7093931,
+               "lng" : 115.2594384
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.707639120107277,
+                  "lng" : 115.2612620798927
+               },
+               "southwest" : {
+                  "lat" : -8.710338779892721,
+                  "lng" : 115.2585624201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Puri santrian restaurant",
+         "photos" : [
+            {
+               "height" : 3384,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113642042334765580046\"\u003eAlex Fedoroff\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0n09tKG-TvIeMHgNWQXs6Ni77pZpgtuyXvZs-GAWB_9qRgBQapUZvzvbG4bp6FFhgCjDqpVWJS1LRg-zHaxbNw05G3gZJFOtDcuXH1yuDq6quMLRQDdH-qT1i4SGbtQeXjMgnnoJfQ66gA2O8X2URfIc8A7KzIh5pFMn6zKFbdJSknC",
+               "width" : 6016
+            }
+         ],
+         "place_id" : "ChIJMX5JVUlB0i0RCdPVg2_RhMY",
+         "rating" : 3.8,
+         "reference" : "ChIJMX5JVUlB0i0RCdPVg2_RhMY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36,
+         "vicinity" : "77R5+6QW, Jl. Kusuma Sari, Sanur, Kota Denpasar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.711072699999999,
+               "lng" : 115.2538012
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.709722870107278,
+                  "lng" : 115.2551510298927
+               },
+               "southwest" : {
+                  "lat" : -8.712422529892722,
+                  "lng" : 115.2524513701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Pandawa Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 460,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104501192107117953090\"\u003ePandawa Restaurant @ Mercure Resort Sanur\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0ly249IJv43fX22Md9YV0WuL2HqbPwQbSEybb5DYuaC5TlEv3_lO2dxtig3a-ft2ofvO-6fNHJJf0J2k2DIDqs_ZQqBZxJZLcWTW00vAivARtNibGoKfGAb1KLD0Ye85XYqP9fMWOndeTyLQS6LDgynmDqKwE6HXKDXVPAjCcMGlhJG",
+               "width" : 840
+            }
+         ],
+         "place_id" : "ChIJmzm6KBhE0i0RLTbUdf_zvsc",
+         "plus_code" : {
+            "compound_code" : "77Q3+HG Sanur, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q77Q3+HG"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJmzm6KBhE0i0RLTbUdf_zvsc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 28,
+         "vicinity" : "Mertasari St, Sanur, Denpasar City"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.703045099999999,
+               "lng" : 115.2610958
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.701719870107278,
+                  "lng" : 115.2624966298928
+               },
+               "southwest" : {
+                  "lat" : -8.704419529892721,
+                  "lng" : 115.2597969701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Tate Bistro",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113367836088535343154\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0mSRETVilIq2hxL1Pq5SCU8sx98NHp8ZbBGikSqE2K4l28in24m3F--IJ9jDZ8EQRzLMDUcMpI3oRQaErylg-_8cf4uEInWLmYvMLrVcwnrV9Wq5hiGgHq0_Ar0wNYOgdxajG39DzgJv_PakPTQUj3qLpHYSL5dG8S7_6MTcSBo5Iw5",
+               "width" : 7676
+            }
+         ],
+         "place_id" : "ChIJa0TVWe5B0i0RzScGh09oZtk",
+         "rating" : 5,
+         "reference" : "ChIJa0TVWe5B0i0RzScGh09oZtk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "77W6+QCQ, Jl. Danau Tamblingan No.188, Sanur, Kota Denpasar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.707050299999999,
+               "lng" : 115.2588046
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.705650920107278,
+                  "lng" : 115.2601157298927
+               },
+               "southwest" : {
+                  "lat" : -8.708350579892722,
+                  "lng" : 115.2574160701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Riviera Restaurant and Bar - Sanur",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112314082024332326317\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0ldDbFivW8RGfSuus6kKegpDkgVMQahYjpy7gEhN_BVC65ddl8zRPshwLZeWwwRFXAmsijI96v98IkZSYaEd_colk01Y34jRsj9La1daiUELHDKvIVyDhcz2LOu4q2l3ZQALBUR2VDFlB1DuBxJyx63B_JLZuIBCIfjOQnbSa9Ft_LI",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ2xa5D_BB0i0RSzU9fFnpFhQ",
+         "plus_code" : {
+            "compound_code" : "77V5+5G Sanur, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q77V5+5G"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJ2xa5D_BB0i0RSzU9fFnpFhQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 211,
+         "vicinity" : "Jl. Cemara No.29, Sanur, Kota Denpasar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.699850099999999,
+               "lng" : 115.2642119
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.698195170107279,
+                  "lng" : 115.2649576298927
+               },
+               "southwest" : {
+                  "lat" : -8.700894829892723,
+                  "lng" : 115.2622579701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Wok Wok",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 933,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117027332224513192707\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0mgaL3icniobOyGJiQWPSQbdgQvBClN2fpuxwIzNO69HiYt9X9Z38GqQ7B1R6FzsK_r2b198vCwURGABrzHsE9qJ0fkF_dWkYk7dPbuhCswDcXi2Pb87Wpl-NmVB4nTDTeASxQlP0V9NiUzF3D3rfYRC2Lt0J2QR5RSP_mvgAPZ7Jf6",
+               "width" : 1400
+            }
+         ],
+         "place_id" : "ChIJc3X_z9JB0i0RlQFH-6njFeo",
+         "plus_code" : {
+            "compound_code" : "8727+3M Sanur, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q8727+3M"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJc3X_z9JB0i0RlQFH-6njFeo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 50,
+         "vicinity" : "Jl. Danau Tamblingan No.89a, Sanur, Kota Denpasar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.6985969,
+               "lng" : 115.2656656
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.697247070107277,
+                  "lng" : 115.2670154298928
+               },
+               "southwest" : {
+                  "lat" : -8.699946729892721,
+                  "lng" : 115.2643157701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Lembongan Beach Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102552041677604421296\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0npJQBJ7QG1qzvs4DAv1OnizGzOJLIkwsk2iaxY7MPaDVG5dkbrMlWhtxWaCfzEVFnhOpJjJru112GZxJySxvBLnd187Z12lOObYez4WAxijo2VPaPSJvGP4Zrz59nPBF7GuMnzChA4bjI5EyZCiwAewSp-sMsNSiKKRcZhRLDZ0roH",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ-c7Hc8ZB0i0RGvbCYfIKVFY",
+         "plus_code" : {
+            "compound_code" : "8728+H7 Sanur, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q8728+H7"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJ-c7Hc8ZB0i0RGvbCYfIKVFY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36,
+         "vicinity" : "Jl. Danau Tamblingan No.89, Sanur, Kota Denpasar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.699812,
+               "lng" : 115.2625061
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.698470870107277,
+                  "lng" : 115.2638896298927
+               },
+               "southwest" : {
+                  "lat" : -8.701170529892721,
+                  "lng" : 115.2611899701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Naga Eight Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104994600130323356326\"\u003eFrancolanis Tang\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0kPoVrpGCjFRCTwVT51TafDcw0YDZx1N_NMdSfL8uitw8fBvp2f7OqiiXloMrkfmLRJt8qoLjmFZM7LpiCBrUWesg1yox4THAEdhON9qs1J-qP7l_yQRkAKFL-2NU8PedCci_4SbRzmbY7hH_a2pnf2Q0ZKKS4iAVEYYZ75SwohqPrc",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJGS89yoBB0i0RnCc0rGBIy4g",
+         "plus_code" : {
+            "compound_code" : "8727+32 Sanur, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q8727+32"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJGS89yoBB0i0RnCc0rGBIy4g",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 310,
+         "vicinity" : "Jl. Danau Tamblingan No.89, Sanur, Kota Denpasar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.6971849,
+               "lng" : 115.2634979
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.695820120107278,
+                  "lng" : 115.2648010798927
+               },
+               "southwest" : {
+                  "lat" : -8.698519779892722,
+                  "lng" : 115.2621014201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ulu Thai Sanur",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115219862700855306140\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0nKJAto5G9qa-Q93pfbQ7sh8H2iJjtIsoASx6PweYoNz_TaSbmomK9L2j4w4oQo_YFCsApCPJzJ4g43C8sJabqddGYeZquW9FvmtASY3ngBq0tzMEb2r9LUrmBACa4T_T8RCdQR43e3O015Wb_xOU7ric7t8bWYshIr5HEufRyOHNDl",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJQ0o5Fq9B0i0Ru7xcSJDUYt0",
+         "plus_code" : {
+            "compound_code" : "8737+4C Sanur, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q8737+4C"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJQ0o5Fq9B0i0Ru7xcSJDUYt0",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 173,
+         "vicinity" : "Jl. Danau Tamblingan No.91, Sanur, Kota Denpasar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.6971483,
+               "lng" : 115.2633124
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.69581187010728,
+                  "lng" : 115.2646544798927
+               },
+               "southwest" : {
+                  "lat" : -8.698511529892723,
+                  "lng" : 115.2619548201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Sea Horse Restaurant",
+         "place_id" : "ChIJn-BAichB0i0R-M2WvmUwAYY",
+         "plus_code" : {
+            "compound_code" : "8737+47 Sanur, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q8737+47"
+         },
+         "rating" : 0,
+         "reference" : "ChIJn-BAichB0i0R-M2WvmUwAYY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Jl. Danau Tamblingan No.176, Sanur, Kota Denpasar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.704070999999999,
+               "lng" : 115.2544238
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.702801270107278,
+                  "lng" : 115.2557739298927
+               },
+               "southwest" : {
+                  "lat" : -8.705500929892722,
+                  "lng" : 115.2530742701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "DD Kin Tiew",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3832,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110782349422659237890\"\u003e\u798f\u4e95\u664b\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0ndO6gHOm17QDzyL3xJAsnOHxew0F51pCq7JqE8lGVKBRxW_CnkLFZozhNX3ocFHERAw9F-4crk8J-N_qahCGrIFnNEoMdC7tFaa6rNhLSbkvEt-OLrgv_SBRRnzlf1pl_CkpcxsNXVEaft5Jr17P5FuMga6W8cduxHFGtXuFdzEgU4",
+               "width" : 2874
+            }
+         ],
+         "place_id" : "ChIJZRvYURdB0i0RWoZjZfhfAFo",
+         "plus_code" : {
+            "compound_code" : "77W3+9Q Sanur, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q77W3+9Q"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJZRvYURdB0i0RWoZjZfhfAFo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 73,
+         "vicinity" : "Jl. Bypass Ngurah Rai No.508, Sanur, Kota Denpasar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.6980649,
+               "lng" : 115.2629726
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.696719870107279,
+                  "lng" : 115.2643574798927
+               },
+               "southwest" : {
+                  "lat" : -8.699419529892722,
+                  "lng" : 115.2616578201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Taqisa Mexican Food - Sanur",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117812269921993034579\"\u003eBasilius Prabawa Brodjonegoro\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0na5IKNgKBA5aGEb9FjAkq9LV2BnBbo1JDm2z8fBwt89itGSHAAt_OOU5_2PMMn8zUA8t9wFOrgo7e02ul9JehM3rYUU3uyX-_2qWaiC13DfWWKYghy2rruokfXxAQ0NkkxpAYclKDtSkvExde451S-zKq-Sx8m5DVfgTcKJUQGz98S",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJZV7FIIFB0i0Ru5z8658NEFk",
+         "plus_code" : {
+            "compound_code" : "8727+Q5 Sanur, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q8727+Q5"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJZV7FIIFB0i0Ru5z8658NEFk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 548,
+         "vicinity" : "Jl. Danau Tamblingan No.170, Sanur, Kota Denpasar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.6979478,
+               "lng" : 115.2632377
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.696566420107278,
+                  "lng" : 115.2645312798927
+               },
+               "southwest" : {
+                  "lat" : -8.699266079892721,
+                  "lng" : 115.2618316201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Fattuesday Restaurant",
+         "place_id" : "ChIJLUJqhshB0i0R3LvgxG58ufw",
+         "plus_code" : {
+            "compound_code" : "8727+R8 Sanur, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q8727+R8"
+         },
+         "rating" : 0,
+         "reference" : "ChIJLUJqhshB0i0R3LvgxG58ufw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Jl. Danau Tamblingan No.89, Sanur, Kota Denpasar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.7036111,
+               "lng" : 115.2608333
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.702276020107275,
+                  "lng" : 115.2622546798927
+               },
+               "southwest" : {
+                  "lat" : -8.704975679892719,
+                  "lng" : 115.2595550201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Apa Kabar Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3060,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104018443918329389027\"\u003e\u0410\u043b\u043b\u0430 \u0413\u043e\u043d\u0447\u0430\u0440\u043e\u0432\u0430\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0mg7yhQWTfPlNzKSgMRIk6YeY1m9vBPFvTT3O3sp0n_TK6ietOMdRhPFjgjRafnT_BbA4a-_rbjjjSgZN046athbxpn_PJzMdaplJjby-M8N7Aru6sr_0DmeRNekQYfPPWi3mRdmo-Zs_i2ZpAYRdQxCGkvNQ9_7o27Td_SEQVxqhRm",
+               "width" : 4080
+            }
+         ],
+         "place_id" : "ChIJFxTdl8BB0i0RIRNiHi-CtEE",
+         "plus_code" : {
+            "compound_code" : "77W6+H8 Sanur, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q77W6+H8"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJFxTdl8BB0i0RIRNiHi-CtEE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 336,
+         "vicinity" : "Jl. Danau Tamblingan No.190, Sanur, Kota Denpasar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.704743199999999,
+               "lng" : 115.2606898
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.703428120107278,
+                  "lng" : 115.2621027798927
+               },
+               "southwest" : {
+                  "lat" : -8.706127779892721,
+                  "lng" : 115.2594031201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Massimo Italian Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112932193798089927407\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0nw52IQwnPTwOD-3kRjcyrl3d7r2r5fG3k-Co6U326EgyTzUGTuOmqw4AM2sWoXS5BCPxXXk2MtowJ_o1iHrRVd9uepytOp3oy9iq-NV-3IKhL8KFnEKUYi3-MejNgtOBXxc3OAfHwuxMj25cnE_R_OjW7OvAoEShw2dmzeiKDM2UEq",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJpRptScdB0i0RqUFK0Ia5KW0",
+         "plus_code" : {
+            "compound_code" : "77W6+47 Sanur, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q77W6+47"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJpRptScdB0i0RqUFK0Ia5KW0",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11635,
+         "vicinity" : "Jl. Danau Tamblingan No.228, Sanur, Kota Denpasar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.7079977,
+               "lng" : 115.2611578
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.706649920107278,
+                  "lng" : 115.2625093798927
+               },
+               "southwest" : {
+                  "lat" : -8.709349579892722,
+                  "lng" : 115.2598097201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Jack Fish",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102544240559455906162\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0krK0SHmPiy9IS1FzfkOOn40R2TSr4ZI-YYMQBo-_rWmml6gBf6iEOdpOorGbsiOJdINPVWxukWOxogNQwjK97jC8pipDe6zcRH7TY2l3qBY8-OTwNFsurhQ16a9_xJjolarLTFZYZhSOGIDHNBJb_gvef84vOHpHLTfaKSDQ7FrQHm",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ9QErvepB0i0R1_2OVXevTdQ",
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "ChIJ9QErvepB0i0R1_2OVXevTdQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 429,
+         "vicinity" : "77R6+RF3, Sanur, Denpasar City"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.6994291,
+               "lng" : 115.2573089
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.698078770107276,
+                  "lng" : 115.2586603298927
+               },
+               "southwest" : {
+                  "lat" : -8.70077842989272,
+                  "lng" : 115.2559606701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Gong Restaurant Sanur",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 826,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105377848325175867756\"\u003eGong Restaurant\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0k1ymUT6hJSJGmk_7Pn3Ic2U4Ho9RunPYaZyVOvDaR24MrzbrqY5Ci2CAFElBtiB5uXulupSJXMt2udo3X5C_t2IqcyanzkdvwLGVnORxzY_YfQTXxuKNMxtF5se_ds9WHSgrg5EyyX7_4kBGt9bF5AIHAjfsQVnVFfhy_xDNS1roY_",
+               "width" : 1238
+            }
+         ],
+         "place_id" : "ChIJ9Z5U5blB0i0RK9P3CC8E8aQ",
+         "plus_code" : {
+            "compound_code" : "8724+6W Sanur Kauh, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q8724+6W"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ9Z5U5blB0i0RK9P3CC8E8aQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 284,
+         "vicinity" : "Jl. Tirta Akasa, Sanur Kauh, Kota Denpasar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.7072436,
+               "lng" : 115.2562559
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.70589627010728,
+                  "lng" : 115.2575544298927
+               },
+               "southwest" : {
+                  "lat" : -8.708595929892724,
+                  "lng" : 115.2548547701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Selada Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102986551289902174712\"\u003eI Gst. Putu Yudia Hartawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0laUCLhC1SJnrWaOicUl-vlOGCBEaXu5vUer5U6OJ9QzeWceCN6KPqur3o_-jtHVIwzD6mYzgRR2MCXo2qxCpaJTMA9LszvDg-gKHfopMA58ATXgtXkU_bA38ydWJ4sb47vEj7U-GsAFhTEVGzHqtxvL2EUqrQGPSGTu0c-2lhgCfM8",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJO9lDJb5B0i0R7caY8VXzBjc",
+         "plus_code" : {
+            "compound_code" : "77V4+4G Sanur Kauh, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q77V4+4G"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJO9lDJb5B0i0R7caY8VXzBjc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 46,
+         "vicinity" : "Jl. Sudamala No.17, Sanur Kauh, Kota Denpasar"
+      }
+   ],
+   "status" : "OK"
+}
